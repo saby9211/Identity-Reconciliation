@@ -4,11 +4,9 @@ A backend web service that identifies and tracks customers across multiple purch
 
 ## 🔗 Hosted Endpoint
 
-> **Base URL:** `https://your-render-url.onrender.com`
+> **Base URL:** `https://identity-reconciliation-ippz.onrender.com`
 >
-> **Endpoint:** `POST /identify`
-
-_(Update the above URL after deploying to Render)_
+> **Endpoint:** `POST https://identity-reconciliation-ippz.onrender.com/identify`
 
 ## 📦 Tech Stack
 
